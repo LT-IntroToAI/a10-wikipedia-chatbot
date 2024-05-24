@@ -18,7 +18,6 @@ def get_page_html(title: str) -> str:
         html of the page
     """
     results = wikipedia.search(title)
-    print(results)
     return WikipediaPage(results[0]).html()
 
 
