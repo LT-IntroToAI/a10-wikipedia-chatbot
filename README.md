@@ -1,12 +1,12 @@
 ---
 title: 'Assignment 10: Wikipedia Chatbot'
 author: Assignment written by Nathan Shelly
-date: 'Due Friday, May 31st'
+date: 'Due Wednesday, May 21st'
 geometry: margin=1in
 urlcolor: cyan
 ---
 
-You may work alone or in a pair. If you work in a pair make sure to document who you are working with both in google classroom and commented in your program.
+You may work alone or in a pair. If you work in a pair make sure to document who you are working with both in google classroom and commented in your program.  Each of you need to push to github so that I can grade the assignment.  
 
 The purpose of this assignment is to get more practice with "regular expressions" (regex) and expand your chatbot to answer questions about famous people/places/things via wikipedia. You can imagine the system that you are building to be the backend of a system like Siri or Alexa.
 
@@ -52,9 +52,9 @@ You might consider adding multiple patterns to correspond to one action to accou
 
 For ideas, spend some time looking at the 'infoboxes' on Wikipedia pages for various celebrities, universities, cities, countries, presidents, singers, etc.
 
-In addition to writing the actual code, you need to demonstrate this code working by providing a transcript similar to the transcript above (paste and comment it out at the bottom of your `.py` file).
+In addition to writing the actual code, you need to demonstrate this code working by providing a transcript similar to the transcript above (paste and comment it out at the bottom of your `.py` file).  You will also be presenting your program to the class so that everyone can see what you completed.
 
-Notice that this code uses the regular expressions that you wrote in Assignment 9 to capture the radius of a plant and the birth date of a person from Wikipedia. Lines 106-142 of the starter code are the most important for you to understand -- the functions from Assignment 9 and the `pa_list`.
+Notice that this code uses the regular expressions that you wrote in Assignment 9 to capture the radius of a plant and the birth date of a person from Wikipedia. Lines 120-160 of the starter code are the most important for you to understand -- the functions from Assignment 9 and the `pa_list`.
 
 # Optional Extension
 
