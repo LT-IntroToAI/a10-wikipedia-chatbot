@@ -12,7 +12,7 @@ The purpose of this assignment is to get more practice with "regular expressions
 
 # Setup
 
-Pip install nltk (like you did for Wikipedia in Assignment 8) then enter the Python interpreter and run the following commands:
+Pip install nltk (like you did for Wikipedia in Assignment 9) then enter the Python interpreter and run the following commands:
 
 ```python
 import nltk
